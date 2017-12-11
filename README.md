@@ -4,7 +4,7 @@ This project was created in tandem with the Spectating VR Blog Post.
 
 ### A Note about Asset Sources
 
-Assets for this project were gathered from internal training resources, with one exception. The player's avatar comes from the [Survival Shooter Asset Store Tutorial](https://assetstore.unity.com/packages/essentials/tutorial-projects/survival-shooter-tutorial-40756).
+Assets for this project were gathered from internal training resources, with one exception. The player's assets are made purely from Unity primitives.
 
 ## Project Structure
 
