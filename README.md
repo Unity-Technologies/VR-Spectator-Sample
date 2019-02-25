@@ -1,6 +1,6 @@
 # Spectating VR
 
-This project was created in tandem with the Spectating VR Blog Post.
+This project was created in tandem with the [Spectating VR Blog Post](https://blogs.unity3d.com/2017/12/12/spectating-vr/).
 
 ### A Note about Asset Sources
 
